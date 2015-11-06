@@ -1,0 +1,28 @@
+/* CSS Document */
+*{ margin: 0px; padding: 0px;}
+body{ width:100%; background-color:#F00; overflow:hidden;}
+#closemusic{ opacity:0; display:none}
+.music{ z-index:99;}
+#back{ position:absolute; overflow:hidden;}
+#back2{ position:absolute; overflow:hidden;display:none;}
+.ele{ position:absolute;}
+.xian{ opacity:0;}
+.text{ opacity:0;}
+#yang{ opacity:0;}
+#backyang{ opacity:0;}
+#back1{display:none;}
+.ba2{ opacity:0;}
+#loading{
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:100%;
+	height:100%;
+	background-color:#FFF;
+	z-index:100;
+	text-align:center;
+}
+#loadimg{
+	margin-top:50%;
+}
+#turnUp{ display:none}
